@@ -1,0 +1,16 @@
+{
+  "name": "Centavo — Offline Expense & Envelope Tracker",
+  "short_name": "Centavo",
+  "description": "100% offline personal expense and money allocation tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8F6",
+  "theme_color": "#1F6E58",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
